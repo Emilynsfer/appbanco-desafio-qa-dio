@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#MBA-26] Como usuário, quero ser redirecionado corretamente após autenticar com 2FA, para acessar diretamente minha área segura.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://wexbank.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [MBA-26]&nbsp;<a href="https://wexbank.atlassian.net/browse/MBA-26">Como usuário, quero ser redirecionado corretamente após autenticar com 2FA, para acessar diretamente minha área segura.</a>
+            <span class="subText">
+               Created: 11/Jun/25                   &nbsp;Updated: 11/Jun/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Backlog</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://wexbank.atlassian.net/secure/BrowseProject.jspa?id=10000">Mobile Banking App</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:1846d699-af36-4e5c-97cb-dd60f41497ee"
+                id="word_reporter_712020:1846d699-af36-4e5c-97cb-dd60f41497ee"
+                href="https://wexbank.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A1846d699-af36-4e5c-97cb-dd60f41497ee">
+                    Emilyn da Silva Fernandes
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:1846d699-af36-4e5c-97cb-dd60f41497ee"
+                id="word_assignee_712020:1846d699-af36-4e5c-97cb-dd60f41497ee"
+                href="https://wexbank.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A1846d699-af36-4e5c-97cb-dd60f41497ee">
+                    Emilyn da Silva Fernandes
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10057-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10057-value" class="value" bgcolor="#ffffff" width="80%">      0|i0005j:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Descrição:</b> </p>
+
+<p>Como usuário, quero ser redirecionado corretamente após autenticar com 2FA, para acessar diretamente minha área segura.</p>
+
+
+
+<p><b>Critérios de avaliação:</b> </p>
+
+<ol>
+	<li>Redirecionamento deve levar ao dashboard.</li>
+	<li>Deve manter a sessão autenticada.</li>
+</ol>
+
+
+
+
+<p><b>Subtasks:</b> </p>
+
+<ul>
+	<li>Criar regra de redirecionamento para dashboard.</li>
+</ul>
+
+
+
+
+<p><b>Requisitos:</b> </p>
+
+<h4><a name="RequisitosFuncionais%28RF%29%3A"></a>Requisitos Funcionais (RF):</h4>
+
+<ul>
+	<li>O sistema deve redirecionar o usuário autenticado para o dashboard.</li>
+	<li>A sessão deve permanecer ativa após o redirecionamento.</li>
+</ul>
+
+
+<h4><a name="RequisitosN%C3%A3oFuncionais%28RNF%29%3A"></a>Requisitos Não Funcionais (RNF):</h4>
+
+<ul>
+	<li>A transição entre as telas deve ocorrer em até 3 segundos.</li>
+	<li>O redirecionamento não deve causar recarregamento completo da aplicação (SPA).</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Wed Jun 11 18:11:19 UTC 2025 by Emilyn da Silva Fernandes using Jira 1001.0.0-SNAPSHOT#100283-rev:c94c2fc4862d1df69b9c75348e02b7eda4198c7c.
+
+</body>
+</html>
